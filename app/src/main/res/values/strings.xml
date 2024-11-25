@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reader</string>
+    <string name="open_camera">Open camera</string>
+    <string name="delete_trancription">Delete trancription</string>
+    <string name="go_back_to_homepage">Go back to homepage</string>
+    <string name="play">Play</string>
+    <string name="settings">Settings</string>
+    <string name="titre">Titre</string>
+    <string name="detail">Detail</string>
+</resources>
